@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    width: 20px;
+    border-color: 1px solid red;
+
+ }
